@@ -1,4 +1,4 @@
-# Deepseek R1 Chat With Gradio Interface In Google Colab
+# Deepseek R1 Chat With Gradio Interface on Colab
 
 ![alt text](https://github.com/ExeCiety/deepseek-r1-chat/blob/main/doc/deepseek-r1-chat.png)
 
